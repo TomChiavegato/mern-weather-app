@@ -11,7 +11,7 @@ import markerIcon from "../assets/map-marker.png";
 
 export default function MapFullComponent() {
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "AIzaSyCqUkh1I6_oPWHCSw-FNpF_ci-x4AkDGYw",
+    googleMapsApiKey: "##################",
   });
 
   if (!isLoaded) {
