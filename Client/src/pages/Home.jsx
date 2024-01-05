@@ -28,7 +28,7 @@ export default function Home({ location }) {
       navigate('/login')
     }
 
-    const URL = "http://localhost:8000/api/weather?location=" + location;
+    const URL = "/api/weather?location=" + location;
 
     axios
       .get(URL)
