@@ -1,0 +1,31 @@
+{
+  "name": "weather-app-node-react",
+  "version": "1.0.0",
+  "description": "mern weather app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server/server.js",
+    "client": "npm run dev --prefix Client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix Client && npm run build --prefix Client"
+  },
+  "author": "Tom Chiavegato",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "axios": "^1.6.4",
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  }
+}
