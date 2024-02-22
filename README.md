@@ -4,4 +4,5 @@ Simple weather app made with node js and react using a free weather data API. Ma
 [Figma design](https://www.figma.com/file/xHkwfZLkUEmha4Tl8tJUpo/NavBar?type=design&node-id=0%3A1&mode=dev) </br>
 [Hosted Website](https://weeatherappmern-58ca83761139.herokuapp.com/)</br>
 
-![weather-app-showcase2](https://github.com/TomChiavegato/weather-app-node-react/assets/129907786/0c4cca5e-006f-487a-a1a5-a85b944c5749)
+
+![weather-app-preview](https://github.com/TomChiavegato/mern-weather-app/assets/129907786/c0096486-bfa0-41db-b4e3-b0481000f062)
