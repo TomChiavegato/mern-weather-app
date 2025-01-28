@@ -5,6 +5,12 @@ A feature-rich weather application built with the **MERN stack** (MongoDB, Expre
 🚀 **[Live Demo](https://weeatherappmern-58ca83761139.herokuapp.com/)** </br>
 🎨 **[Figma Design Prototype](https://www.figma.com/file/xHkwfZLkUEmha4Tl8tJUpo/NavBar?type=design&node-id=0%3A1&mode=dev)**  
 
+- **Guest Account Access**  
+  Explore the app without the need to create an account! Use the guest login to quickly access all features:
+  - **Email**: `guest@mail.com`
+  - **Password**: `123456`
+
+
 ![App Preview](https://github.com/TomChiavegato/mern-weather-app/assets/129907786/c0096486-bfa0-41db-b4e3-b0481000f062)
 
 ---
