@@ -9,13 +9,14 @@ A feature-rich weather application built with the **MERN stack** (MongoDB, Expre
   Explore the app without the need to create an account! Use the guest login to quickly access all features:
   - **Email**: `guest@mail.com`
   - **Password**: `123456`
+- Alternatively, you can create your own account using your email
 
 
 ![App Preview](https://github.com/TomChiavegato/mern-weather-app/assets/129907786/c0096486-bfa0-41db-b4e3-b0481000f062)
 
 ---
 
-## ✨ Features
+## ⚡ Features
 
 - **User Authentication**  
   Securely create an account or log in with **JWT (jsonwebtoken)** for seamless, persistent sessions.
